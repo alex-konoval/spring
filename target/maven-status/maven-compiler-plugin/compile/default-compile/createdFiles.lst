@@ -1,0 +1,4 @@
+com\alexeydl\aspect\PaymentAdviser.class
+com\alexeydl\aspect\PaymentService.class
+com\alexeydl\aspect\Bill.class
+com\alexeydl\aspect\Main.class
